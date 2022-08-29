@@ -41,7 +41,7 @@ main {
   color: var(--dark-grayish-blue);
 }
 
-h2 {
+h1 {
   font-size: 1.8rem;
   font-weight: 700;
   color: var(--very-dark-desaturated-blue);
@@ -161,7 +161,7 @@ footer a:active {
 
 @media (max-width: 280px) {
   body,
-  h2,
+  h1,
   ul > li {
     font-size: 1.5rem;
   }
