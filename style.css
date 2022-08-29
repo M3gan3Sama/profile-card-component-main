@@ -137,6 +137,10 @@ footer a:active {
 }
 
 @media (max-width: 375px) {
+  body {
+    background-position: right 40vw bottom 40vh, left 40vw top 40vh;
+  }
+
   main {
     max-width: 326px;
     margin: auto 2.5rem;
