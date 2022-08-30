@@ -39,6 +39,7 @@ main {
   border-radius: 1.4rem;
   overflow: hidden;
   color: var(--dark-grayish-blue);
+  box-shadow: 0 4px 25px hsl(229, 23%, 23%, 0.25);
 }
 
 h1 {
